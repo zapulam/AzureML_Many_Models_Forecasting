@@ -1,6 +1,6 @@
 # A Better Azure ML Many Models Forecasting Example
 
-Zachary Pulliam
+*By: Zachary Pulliam*
 
 ## Goal
 
